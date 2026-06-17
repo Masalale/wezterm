@@ -7,7 +7,7 @@ local act = wezterm.action
 --------------------------------------------------------------------------------
 local wsl_domains = wezterm.default_wsl_domains()
 for _, dom in ipairs(wsl_domains) do
-	if dom.name == "WSL:FedoraLinux-43" then
+	if dom.name == "WSL:FedoraLinux-44" then
 		dom.username = "ngash"
 		dom.default_cwd = "~"
 	end

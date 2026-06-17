@@ -13,7 +13,7 @@ for _, dom in ipairs(wsl_domains) do
 	end
 end
 config.wsl_domains = wsl_domains
-config.default_domain = "WSL:FedoraLinux-43"
+config.default_domain = "WSL:FedoraLinux-44"
 
 --------------------------------------------------------------------------------
 -- Appearance
